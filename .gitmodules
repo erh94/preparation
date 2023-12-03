@@ -1,0 +1,4 @@
+[submodule "30-Days-of-Code"]
+	path = 30-Days-of-Code
+	url = git@github.com:erh94/30-Days-of-Code.git
+	branch = master
